@@ -2,7 +2,7 @@ rencana kinten wpu
 -JAVASCRIPT
   =es6
   =frenwork javascript
-  =
+  =riek
   =view
 -interview
 -vlog
