@@ -1,10 +1,13 @@
 rencana kinten wpu
 -JAVASCRIPT
   =es6
+  =angular
   =frenwork javascript
   =riek
   =view
 -interview
 -vlog
+laravel
 -struktur dasa
 -payten
+
