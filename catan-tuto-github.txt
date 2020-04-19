@@ -1,8 +1,22 @@
 -brnch
 definisi branc
+"jalur 'developmen' bebas dari sebuah commit"
   -Membuat git branch
   -membuat shapshot tanpa mengganggu jalur utama (Master brabch)
   -fitur experimental
   -2 orang yang mengerjakan repo yang sama
+  
+-checkour
+ "berpindah ke branch/commit yang lain"
+ 
+ pull request
+ "meminta pemilik repo untuk mengambil perubahan yang telah dilakukan"
+ 
+ -merge 
+ "menggabungkan 2 buah branch"
+ 
+ -merge conflict
+ 
+ baris yang sama diubah oleh 2 branc yang berbeda
   
   
