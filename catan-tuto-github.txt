@@ -1,0 +1,8 @@
+-brnch
+definisi branc
+  -Membuat git branch
+  -membuat shapshot tanpa mengganggu jalur utama (Master brabch)
+  -fitur experimental
+  -2 orang yang mengerjakan repo yang sama
+  
+  
